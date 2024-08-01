@@ -22,7 +22,7 @@ const perguntas = [
         enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
         alternativas: [
             {
-                texto: " "
+                texto: "  "
               
             },
             
@@ -45,14 +45,7 @@ const perguntas = [
                         }                    ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de matemática para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
-        alternativas: [
-            {
-                texto: " ",
-                
-            },
-            
-        ]
+       
     },
 ];
 
