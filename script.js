@@ -85,9 +85,8 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
-    textoResultado.textContent = historiaFinal;
-    caixaAlternativas.textContent = "";
+    caixaPerguntas.textContent = "Fim";
+    caixaAlternativas.textContent = "Projeto finalizado";
 }
 
 mostraPergunta();
